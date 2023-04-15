@@ -1,0 +1,32 @@
+{
+    "mainMenu": {
+
+        "play": {
+            "name": "OYNA",
+            "enterNumber": "SAYI GIR"
+        },
+        "training": {
+            "name": "ANTRENMAN"
+        },
+        "howToPlay": {
+            "name": "NASIL OYNANIR?",
+            "content": [
+                "Amaç: Karşı tarafın belirlediği üç haneli sayıyı doğru bilmek.",
+                "+ : Girdiğin sayının içindeki rakamların doğru konumlarda olduğunu belirtir.",
+                "- : Girdiğin sayının içinde doğru rakamlar olduğunu ama konumlarının yanlış olduğunu belirtir.",
+                "X : Girdiğin sayının içindeki tüm rakamların yanlış olduğunu belirtir."
+            ]
+        },
+        "settings": {
+            "name": "AYARLAR",
+            "aboutUs": "HAKKIMIZDA"
+        },
+        "popup": {
+            "playAgain": "TEKRAR OYNA",
+            "mainMenu": "ANA MENU",
+            "won": "KAZANDIN",
+            "losed": "KAYBETTIN"
+        }
+    }
+
+}

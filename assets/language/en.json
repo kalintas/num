@@ -1,0 +1,32 @@
+{
+    "mainMenu": {
+
+        "play": {
+            "name": "PLAY",
+            "enterNumber": "ENTER A NUMBER"
+        },
+        "training": {
+            "name": "TRAINING"
+        },
+        "howToPlay": {
+            "name": "HOW TO PLAY?",
+            "content": [
+                "Goal: Correctly guessing the 3 digit number that opponent is decided.",
+                "+ : Suggests that the digits in your guess are correct and in the right location.",
+                "- : Suggests that the digits in your guess are correct but in the wrong location.",
+                "X : Suggests that there is no correct digit in your guess."
+            ]
+        },
+        "settings": {
+            "name": "SETTINGS",
+            "aboutUs": "ABOUT US"
+        },
+        "popup": {
+            "playAgain": "PLAY AGAIN",
+            "mainMenu": "MAIN MENU",
+            "won": "YOU WIN",
+            "losed": "YOU LOSE"
+        }
+    }
+
+}
